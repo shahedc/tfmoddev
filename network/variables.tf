@@ -1,0 +1,2 @@
+variable "RESOURCE_GROUP_NAME" {}
+variable "RESOURCE_GROUP_LOCATION" {}

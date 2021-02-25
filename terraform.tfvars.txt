@@ -1,3 +1,6 @@
 SUBSCRIPTION_ID = "<SUBSCRIPTION_ID>"
 VM01_ADMIN_USR = "<SomeAdminUser>"
 VM01_ADMIN_PWD = "<SomePassword>"
+
+RESOURCE_GROUP_NAME = "<SomeResourceGroup>"
+RESOURCE_GROUP_LOCATION = "<SomeLocation>"
